@@ -1,5 +1,5 @@
 <div align="center">
-  #Game Developer & Engineering Student
+  Game Developer & Engineering Student
   
   <br />
   <br />
