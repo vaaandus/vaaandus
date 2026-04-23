@@ -11,7 +11,7 @@
   <br />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/velidenizblck">
+    <a href="https://www.linkedin.com/in/veli-deniz-balcıkoca-786b05271/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
     </a>
   </p>
